@@ -1,6 +1,6 @@
 # Demo Notes
 
-Notes, tips, and hints for using the various Veracode scan types with this application.
+Notes, tips, and hints for using the various Veracode scan types with this application
 
 Also see the `docs/flaws` folder for in-depth explanations of the various exploits exposed in this application.
 
