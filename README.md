@@ -23,7 +23,7 @@ Blab-a-Gag is a fairly simple forum type application which allows:
 
 ## Run
 
-If you don't already have Docker this is a prerequisite.
+If you don't already have Docker this is a prerequisite
 
     docker run -p 8080:8080 veracode/vulnerable-verademo-java
 
